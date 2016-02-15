@@ -1,0 +1,1 @@
+A message bus allows for loose coupling components in an application for message exchanging. Components do not need to be state aware and publish/receive messages using the message bus as a broker.
